@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9300d2c-88cf-44f6-9f16-27d8c657a23f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching/Searching.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching/src/RecursiveBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/Bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "20",
     "kotlin-language-version-configured": "true",
@@ -76,6 +65,17 @@
       <updated>1716540512246</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
